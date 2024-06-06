@@ -1,1 +1,1 @@
-zkouška, zkouška
+print("nevím co dělám")
