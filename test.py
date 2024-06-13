@@ -1,2 +1,3 @@
 print("nevím co dělám")
-změna
+#změna
+
